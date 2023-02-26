@@ -24,8 +24,8 @@ Panduan referensi cepat untuk C programming, termasuk pengenalan, variabel, oper
 2. [Cyber Security](https://www.javatpoint.com/cyber-security)<br>
 Panduan referensi cepat untuk cyber security, termasuk pengenalan, keamanan jaringan, keamanan sistem, keamanan data, dan beberapa contoh kasus.
 
-3. [Cyber Security in 7 Minutes](https://www.youtube.com/watch?v=7sI3VHFPP0w)<br>
-Video pendek yang menjelaskan tentang cyber security secara singkat dan mudah dipahami.
+3. [Cyber Security in 7 Minutes](https://www.youtube.com/watch?v=inWWhr5tnEA)<br>
+Video pendek yang menjelaskan tentang pengenalan cyber security dalam 7 menit.
 
-4. [Privacy and Security](https://www.youtube.com/watch?v=7sI3VHFPP0w)<br>
-Video pendek yang menjelaskan tentang privacy dan security secara singkat dan mudah dipahami dengan contoh kasus. Video ini juga menjelaskan tentang apa itu cyber security.
+4. [Privacy and Security](https://www.youtube.com/watch?v=qZE45J-MIUg)<br>
+Video pendek yang menjelaskan tentang privacy dan security secara singkat dan mudah dipahami.
