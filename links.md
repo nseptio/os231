@@ -1,17 +1,7 @@
 ---
 permalink: LINKS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
-<br><br>
-[HOME]({{ site.baseurl }}/) ---
-[LINKS]({{ site.baseurl }}/LINKS/) ---
-[TIPS]({{ site.baseurl }}/TIPS/) ---
-[PUBLIC KEY]({{ site.baseurl }}{{ site.mypublickey }}) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL](SandBox/cbkadal.tar.xz) ---
-[GITHUB]({{ site.githublink }})
-<br>
-<hr>
+
 # LINKS
 
 ## Week 01
@@ -26,3 +16,16 @@ Panduan referensi cepat untuk bash scripting, termasuk pengenalan, variabel, ope
 
 4. [Vi Editor](https://www.javatpoint.com/vi-editor)<br>
 Panduan referensi cepat untuk vi editor, termasuk pengenalan, mode, perintah, dan beberapa contoh penggunaan. Terdapat tutorial dasar seperti pengenalan tentang bash.
+
+## Week 02
+1. [C Programming](https://www.javatpoint.com/c-programming-language-tutorial)<br>
+Panduan referensi cepat untuk C programming, termasuk pengenalan, variabel, operator, pengkondisian, perulangan, fungsi, dan beberapa contoh program.
+
+2. [Cyber Security](https://www.javatpoint.com/cyber-security)<br>
+Panduan referensi cepat untuk cyber security, termasuk pengenalan, keamanan jaringan, keamanan sistem, keamanan data, dan beberapa contoh kasus.
+
+3. [Cyber Security in 7 Minutes](https://www.youtube.com/watch?v=7sI3VHFPP0w)<br>
+Video pendek yang menjelaskan tentang cyber security secara singkat dan mudah dipahami.
+
+4. [Privacy and Security](https://www.youtube.com/watch?v=7sI3VHFPP0w)<br>
+Video pendek yang menjelaskan tentang privacy dan security secara singkat dan mudah dipahami dengan contoh kasus. Video ini juga menjelaskan tentang apa itu cyber security.
