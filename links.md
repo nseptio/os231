@@ -29,3 +29,10 @@ Video pendek yang menjelaskan tentang pengenalan cyber security dalam 7 menit.
 
 4. [Privacy and Security](https://www.youtube.com/watch?v=qZE45J-MIUg)<br>
 Video pendek yang menjelaskan tentang privacy dan security secara singkat dan mudah dipahami.
+
+## Week 03
+1. [Symtem File](https://www.geeksforgeeks.org/file-systems-in-operating-system/))<br>
+Panduan referensi cepat untuk sistem file, termasuk pengenalan, jenis-jenis sistem file, dan beberapa contoh penggunaan.
+
+2. [Unix / Linux - File System Basics](https://www.tutorialspoint.com/unix/unix-file-system.htm)<br>
+Dokumentasi yang berguna untuk sistem file linux. 
