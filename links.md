@@ -31,8 +31,19 @@ Video pendek yang menjelaskan tentang pengenalan cyber security dalam 7 menit.
 Video pendek yang menjelaskan tentang privacy dan security secara singkat dan mudah dipahami.
 
 ## Week 03
-1. [Symtem File](https://www.geeksforgeeks.org/file-systems-in-operating-system/))<br>
+1. [Symtem File](https://www.geeksforgeeks.org/file-systems-in-operating-system/)<br>
 Panduan referensi cepat untuk sistem file, termasuk pengenalan, jenis-jenis sistem file, dan beberapa contoh penggunaan.
 
 2. [Unix / Linux - File System Basics](https://www.tutorialspoint.com/unix/unix-file-system.htm)<br>
-Dokumentasi yang berguna untuk sistem file linux. 
+Dokumentasi yang berguna untuk sistem file linux.
+
+## Week 04
+1. [Paging in Operating Systems with Example & Working - Memory Management](https://www.youtube.com/watch?v=pJ6qrCB8pDw&t=341s/)<br>
+Menjelaskan tentang paging di OS. Video ini memiliki visualisasi yang bagus dan penjelasan yang dipahami
+
+2. [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)<br>
+Artikel yang menjelaskan dasar-dasar tentang memori dan mencakup topik yang berkaitan dengan Manajemen Memori.
+
+3. [Loading vs Linking](https://www.geeksforgeeks.org/difference-between-loading-and-linking/)<br>
+Menjelaskan mengenai proses loading dan linking dalam mengeksekusi program dan juga perbedaan proses yang dilakukan secara static dengan dynamic
+
