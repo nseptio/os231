@@ -47,3 +47,12 @@ Artikel yang menjelaskan dasar-dasar tentang memori dan mencakup topik yang berk
 3. [Loading vs Linking](https://www.geeksforgeeks.org/difference-between-loading-and-linking/)<br>
 Menjelaskan mengenai proses loading dan linking dalam mengeksekusi program dan juga perbedaan proses yang dilakukan secara static dengan dynamic
 
+## Week 05
+1. [What Is Little-Endian And Big-Endian Byte Ordering?](https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/)<br>
+Berisikan konsep little endian dan big endian yang sudah kita pelajari di semester sebelumnya.
+
+2. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+Panduan mengenai konsep virtual memory di sistem operasi yang mudah dipahami.
+
+3. [Memory Management in OS: Contiguous, Swapping, Fragmentation](https://www.guru99.com/os-memory-management.html)<br>
+Website yang membahas beberapa konsep penting memori dalam sistem operasi seperti strategi manajemen memori, alokasi memori, paging, dll.
