@@ -56,3 +56,10 @@ Panduan mengenai konsep virtual memory di sistem operasi yang mudah dipahami.
 
 3. [Memory Management in OS: Contiguous, Swapping, Fragmentation](https://www.guru99.com/os-memory-management.html)<br>
 Website yang membahas beberapa konsep penting memori dalam sistem operasi seperti strategi manajemen memori, alokasi memori, paging, dll.
+
+## Week 06
+1. [Fork in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+Artikel ini menjelaskan tentang apa itu fork dalam sistem operasi Unix dan contoh operasinya dalam bahasa C.
+
+2. [Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)<br>
+Menjelaskan bagaimana proses berjalan pada suatu sistem operasi.
