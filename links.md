@@ -63,3 +63,13 @@ Artikel ini menjelaskan tentang apa itu fork dalam sistem operasi Unix dan conto
 
 2. [Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)<br>
 Menjelaskan bagaimana proses berjalan pada suatu sistem operasi.
+
+## Week 07
+1. [Process Synchronization in Operating System](https://my.eng.utah.edu/~cs5460/slides/Lecture07.pdf)<br>
+Situs web ini berisi slides yang membahas mengenai proses sinkronisasi dalam sistem operasi. Slides tersebut ringkas, tetapi lengkap membahas sinkronasi.
+
+2. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/?ref=lbp)<br>
+Artikel ini membahas Deadlock dalam sistem operasi. Terdapat contoh dan video penjelasan yang mudah dipahami.
+
+3. [Concurrency vs Parallelism](https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350)<br>
+Penjelasan mengenai perbedaan Concurrency dan Parallelism.
