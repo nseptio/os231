@@ -73,3 +73,12 @@ Artikel ini membahas Deadlock dalam sistem operasi. Terdapat contoh dan video pe
 
 3. [Concurrency vs Parallelism](https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350)<br>
 Penjelasan mengenai perbedaan Concurrency dan Parallelism.
+
+## Week 08
+1. [LFS Tutorial](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ) by Kernotex<br>
+Playlist youtube yang memjelaskan prosedur buku Linux From Scratch ver 11.3. Playlist mencakup semua bab dalam buku tersebut dan setiap video memandu kita dengan sangat baik.
+
+2. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
+Artikel yang membahas mengenai algoritma scheduling dalam sistem operasi.
+
+2. []()<br>

@@ -66,3 +66,11 @@ ZCZC W07 10 L43 TXT/myrank.tex related, including peer review.
 ZCZC W07 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W07 60 L05 Quiz related including studying
 ZCZC W07 60 L24 Scripting in general
+ZCZC W08 30 L01 SCELE/Discord related
+ZCZC W08 10 L03 GitHub related
+ZCZC W08 30 L21 Trying something
+ZCZC W08 30 L41 TXT/mylog.txt related.
+ZCZC W08 10 L43 TXT/myrank.tex related, including peer review.
+ZCZC W08 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W08 60 L05 Quiz related including studying
+ZCZC W08 60 L24 Scripting in general
