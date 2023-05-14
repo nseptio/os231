@@ -81,4 +81,9 @@ Playlist youtube yang memjelaskan prosedur buku Linux From Scratch ver 11.3. Pla
 2. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
 Artikel yang membahas mengenai algoritma scheduling dalam sistem operasi.
 
-2. []()<br>
+## Week 09
+1. [RAID (Redundant Arrays of Independent Disks)](https://www.javatpoint.com/what-is-raid#:~:text=A%20RAID%20system%20consists%20of,array%20are%20called%20array%20members.) <br>
+RAID adalah sistem yang terdiri dari 2 atau lebih disk drives yang bekerja secara bersamaan. Tujuan dari RAID adalah untuk meningkatkan aspek data performance, reliability, dan availability. 3 fungsi utama dari RAID adalah striping, parity checking, dan mirroring.
+
+2. [Memory mapped I/O and Isolated I/O](https://www.geeksforgeeks.org/memory-mapped-i-o-and-isolated-i-o/) <br>
+Penjelasan singkat bagaiman CPU berkomunikasi dengan memory dan IO.
