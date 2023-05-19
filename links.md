@@ -87,3 +87,7 @@ RAID adalah sistem yang terdiri dari 2 atau lebih disk drives yang bekerja secar
 
 2. [Memory mapped I/O and Isolated I/O](https://www.geeksforgeeks.org/memory-mapped-i-o-and-isolated-i-o/) <br>
 Penjelasan singkat bagaiman CPU berkomunikasi dengan memory dan IO.
+
+## Week 10
+1. [Socket Programming](https://www.geeksforgeeks.org/socket-programming-cc/)<br>
+Socket adalah cara bagaimana dua program berinteraksi dalam suatu jaringan yang sama.
